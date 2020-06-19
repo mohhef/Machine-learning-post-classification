@@ -1,0 +1,99 @@
+1  why we sleep, and why we often can’t  ask_hn  -15.957742  -15.671077  -17.572772  -inf  story  wrong
+2  the media’s post-advertising future is also its past  story  -11.187504  -12.138792  -14.892354  -inf  story  right
+3  how well do we understand probabilities in medicine? (2016)  ask_hn  -15.808444  -14.641114  -16.739104  -inf  story  wrong
+4  progress in deep learning object detection  show_hn  -5.444371  -5.653291  -5.346711  -inf  story  wrong
+5  upgrading the nginx executable on the fly  story  -6.660782  -7.287133  -7.193461  -inf  story  right
+6  the demographic time bomb that could hit america  story  -7.615024  -8.019527  -8.369552  -inf  story  right
+7  selenium: storing data efficiently  show_hn  -3.481443  -3.065206  -2.654864  -inf  story  wrong
+8  remembering riccardo giacconi, a titan of the heroic age of astronomy  story  -8.295887  -8.596465  -9.357630  -inf  story  right
+9  exploring personal smartphone usage across 2018  story  -3.004321  -3.542327  -3.499962  -inf  story  right
+10  ask hn: what’s the most effective ny resolution you ever had?  ask_hn  -21.682389  83.371906  -21.180559  -inf  ask_hn  right
+11  ai index 2018 report [pdf]  story  -5.531522  -6.607534  -6.045681  -inf  story  right
+12  2019: make yourself great again  ask_hn  -3.481443  -3.065206  -3.499962  -inf  story  wrong
+13  review of modern auto layout  show_hn  -8.535843  -8.718497  -7.892431  -inf  story  wrong
+14  show hn: pre-render javascript apps on cloudfront  show_hn  -15.021607  -13.487182  90.668280  -inf  show_hn  right
+15  lars bak: how dart learned from past object-oriented systems (splashcon 2015)  ask_hn  -8.791115  -7.575830  -7.892431  -inf  story  wrong
+16  object eversion, zigzag, and the rdbms  story  -4.195729  -4.808193  -4.782440  -inf  story  right
+17  massive bonfire sparks ember storm in dutch town  story  -2.440050  -2.588085  -2.800992  -inf  story  right
+18  why we support #proofofkeys and you should, too  ask_hn  -10.426221  -9.915124  -11.049970  -inf  story  wrong
+19  sally rooney gets in your head  show_hn  -7.749723  -8.019527  -7.524454  -inf  story  wrong
+20  the west coast is beating the east coast on transportation?  story  -8.551160  -9.073586  -10.216301  -inf  story  right
+21  understanding zero-knowledge proofs  ask_hn  -3.481443  -3.065206  -3.499962  -inf  story  wrong
+22  discard autocomplete – write code quickly and without errors  story  -10.903342  -10.938605  -11.049970  -inf  story  right
+23  chinese schools monitor students activities with 'intelligent uniforms'  show_hn  -5.786794  -6.607534  -5.091439  -inf  story  wrong
+24  the chinese takeover of indian app ecosystem  story  -6.882630  -7.764255  -8.147703  -inf  story  right
+25  ask hn: what are your goals for 2019?  ask_hn  -17.626272  86.268990  -17.447319  -inf  ask_hn  right
+26  node.js with typescript – setting up a node.js app with typescript  story  -9.505402  -11.459192  -9.546055  -inf  story  right
+27  how i earn $200,000 a year from photography  ask_hn  -9.982523  -8.320889  -9.801328  -inf  story  wrong
+28  california could soon have its own version of the internet  story  -11.347205  -12.940424  -14.193384  -inf  story  right
+29  visual mental imagery training  story  -0.477121  -0.477121  -0.477121  -inf  story  right
+30  the usefulness of useless knowledge [flexner, 1939]  story  -4.355430  -4.699048  -5.124862  -inf  story  right
+31  laravel, cloudflare and trusted proxies  story  -4.894699  -5.762435  -5.481410  -inf  story  right
+32  could dust destroy bitcoin?  story  -5.309673  -6.130412  -6.045681  -inf  story  right
+33  show hn: distinguish – a simple way to minify and disambiguate css classes  show_hn  -17.211298  -16.379799  86.191669  -inf  show_hn  right
+34  pro-tips to pass resume screening  story  -2.367499  -2.428384  -2.654864  -inf  story  right
+35  nikolaas tinbergen seagull (1974)  story  -0.477121  -0.477121  -0.477121  -inf  story  right
+36  the year in science–and what americans thought about it  ask_hn  -11.959025  -11.200062  -13.716263  -inf  story  wrong
+37  censoring china’s internet, for stability and profit  story  -6.563229  -7.786249  -7.462858  -inf  story  right
+38  ask hn: ci and tests for personal project  ask_hn  -16.275163  87.637299  -13.751062  -inf  ask_hn  right
+39  ask hn: how is the light handled in the monument valley games?  ask_hn  -18.828082  84.682696  -19.083649  -inf  ask_hn  right
+40  ask hn: any services for running api performance tests on every pull request?  ask_hn  -22.443506  81.138910  -18.707802  -inf  ask_hn  right
+41  ask hn: good keyboard and mouse to mitigate rsi?  ask_hn  -13.270841  90.775056  -11.401638  -inf  ask_hn  right
+42  ask hn: are any ml researchers supported by the community?  ask_hn  -21.045566  82.807635  -21.180559  -inf  ask_hn  right
+43  ask hn: would you be interested in a voting-ring-detection-as-a-service  ask_hn  -17.283849  87.476106  -17.043775  -inf  ask_hn  right
+44  ask hn: how do you get what you need from the hr department?  ask_hn  -29.741110  78.472770  -28.118747  -inf  ask_hn  right
+45  ask hn: is anyone using google cloud platform for a non-trivial project?  ask_hn  -19.993771  84.650660  -19.356216  -inf  ask_hn  right
+46  ask hn: anyone using constraint programming in production?  ask_hn  -16.507414  88.136415  -14.289780  -inf  ask_hn  right
+47  ask hn: does upwork suspend accounts just for not subscribing?  ask_hn  -13.208694  90.778226  -12.246736  -inf  ask_hn  right
+48  show hn: a guessing game for historical events / people  show_hn  -15.798042  -14.232241  88.369412  -inf  show_hn  right
+49  show hn: delivery route planner on stereoids  show_hn  -11.540164  -10.421975  92.515030  -inf  show_hn  right
+50  show hn: extract the contents of files using data recovery techniques in macos  show_hn  -20.385723  -18.865830  83.256531  -inf  show_hn  right
+51  ask hn: is php still relevant?  ask_hn  -8.376142  95.748059  -7.242447  -inf  ask_hn  right
+52  ask hn: are you enterprise, or startup?  ask_hn  -16.911985  89.153414  -15.833848  -inf  ask_hn  right
+53  ask hn: why are we still using text editors to write code?  ask_hn  -26.861085  78.013015  -26.235014  -inf  ask_hn  right
+54  show hn: todox: a simple todo list with trello-like boards  show_hn  -13.208694  -12.685549  90.606132  -inf  show_hn  right
+55  ask hn: what are your favorite text adventure games?  ask_hn  -15.735894  88.292803  -14.766901  -inf  ask_hn  right
+56  show hn: lbcapi3 – a python3 version of the localbitcoins api library  show_hn  -20.313173  -19.018440  83.379248  -inf  show_hn  right
+57  show hn: human foods dogs can eat (app)  show_hn  -14.067364  -13.010060  88.537947  -inf  show_hn  right
+58  ask hn: is gdpr the end of side projects?  ask_hn  -15.258772  88.938047  -14.913029  -inf  ask_hn  right
+59  ask hn: how do you learn a new programming language?  ask_hn  -23.903760  81.908577  -22.357062  -inf  ask_hn  right
+60  ask hn: what's the post mortem of the big quora hack?  ask_hn  -15.196624  88.136415  -13.736938  -inf  ask_hn  right
+61  show hn: crowdsourced freelance contract template, written in plain language  show_hn  -14.457335  -12.532939  89.714038  -inf  show_hn  right
+62  show hn: email-securely-app 2.2.0 - tutanota / protonmail desktop client  show_hn  -12.017286  -10.421975  92.736878  -inf  show_hn  right
+63  ask hn: what do you use as a scratchpad for your notes?  ask_hn  -24.571050  81.983061  -22.965735  -inf  ask_hn  right
+64  show hn: thesaas x – a landing page builder for startups on top of wordpress 5  show_hn  -20.375321  -18.563313  83.277973  -inf  show_hn  right
+65  show hn: simplequoter – easy to use sales quote estimating tool  show_hn  -10.903342  -8.830911  93.250983  -inf  show_hn  right
+66  ask hn: how to stop being a worrier?  ask_hn  -14.462249  90.343078  -13.874806  -inf  ask_hn  right
+67  ask hn: simplest javascript testing setup?  ask_hn  -12.494407  91.404099  -9.089196  -inf  ask_hn  right
+68  ask hn: what tools do you use to manage your personal projects?  ask_hn  -26.798937  80.452347  -24.912795  -inf  ask_hn  right
+69  ask hn: full stack devs, what helped you noticeably reduce development time?  ask_hn  -14.067364  91.136161  -12.333886  -inf  ask_hn  right
+70  show hn: slack-bot that makes your team's review smooth  show_hn  -11.795437  -9.501157  92.883006  -inf  show_hn  right
+71  ask hn: test coverage in side projects  ask_hn  -14.457335  89.770257  -12.112037  -inf  ask_hn  right
+72  ask hn: good book on resilience of natural systems, for non-biologists?  ask_hn  -18.962064  85.635480  -16.639204  -inf  ask_hn  right
+73  ask hn: how to write a good tos agreement? for side projects?  ask_hn  -23.475214  82.341462  -21.901935  -inf  ask_hn  right
+74  show hn: compare trends on hacker news  show_hn  -14.544486  -13.010060  89.492189  -inf  show_hn  right
+75  show hn: breezy – pjax for react redux rails  show_hn  -11.380463  -9.857704  93.447278  -inf  show_hn  right
+76  show hn: diy ddns with bash and cloudflare apis  show_hn  -13.208694  -13.119205  90.533582  -inf  show_hn  right
+77  show hn: merge csv files on a key  show_hn  -16.434864  -14.796513  87.583292  -inf  show_hn  right
+78  show hn: i translated (most of) a coq proof into a c++ template metaprogram  show_hn  -23.634914  -21.194864  81.026653  -inf  show_hn  right
+79  ask hn: have you had any experience with ghostwriters?  ask_hn  -14.322637  89.617647  -11.379643  -inf  ask_hn  right
+80  ask hn: need advice on node.js and express metrics monitoring  ask_hn  -13.907664  90.138234  -11.292493  -inf  ask_hn  right
+81  ask hn: how do you manage yourself for side projects?  ask_hn  -21.744536  85.213544  -19.883894  -inf  ask_hn  right
+82  ask hn: uses of reflection/introspection for statistical programming?  ask_hn  -13.430542  90.811650  -11.070644  -inf  ask_hn  right
+83  ask hn: advise for software engineer moving to finance  ask_hn  -21.806684  82.951823  -20.470159  -inf  ask_hn  right
+84  ask hn: what can alphastar tell us about imitation learning for autonomous cars?  ask_hn  -21.966385  82.879273  -20.361015  -inf  ask_hn  right
+85  show hn: deep learning web gui to design, visualise, train and share models  show_hn  -15.798042  -15.070468  88.355839  -inf  show_hn  right
+86  show hn: pitch parfait – perfect pitch test/trainer (pwa)  show_hn  -6.485764  -4.768684  97.606468  -inf  show_hn  right
+87  show hn: nummberr a random number generator pwa  show_hn  -11.380463  -9.620343  93.151852  -inf  show_hn  right
+88  show hn: supernnova – bayesian neural networks for supernova classification  show_hn  -8.376142  -6.792498  95.625020  -inf  show_hn  right
+89  show hn: gifkr – java based image, gif, and video filtering platform  show_hn  -14.384785  -13.119205  90.755430  -inf  show_hn  right
+90  show hn: steganio – simple responsive browser steganography  show_hn  -6.485764  -4.768684  97.606468  -inf  show_hn  right
+91  show hn: hello, css – a css template focused on readability  show_hn  -18.962064  -17.384598  86.435512  -inf  show_hn  right
+92  show hn: kube capacity – a cli for resource capacity in kubernetes clusters  show_hn  -20.765292  -19.408411  82.800852  -inf  show_hn  right
+93  show hn: mobility startup generator  show_hn  -12.494407  -10.053999  92.037908  -inf  show_hn  right
+94  show hn: freeroam – a tool for finding public campgrounds  show_hn  -13.270841  -11.167035  90.693283  -inf  show_hn  right
+95  show hn: build your own mobile workplace with corpa  show_hn  -16.150867  -16.330539  87.314446  -inf  show_hn  right
+96  show hn: nevod is easier and faster than regexp  show_hn  -12.793720  -11.840451  89.579339  -inf  show_hn  right
+97  show hn: free zero-knowledge encrypted backup with open source client  show_hn  -19.410461  -18.663351  85.099720  -inf  show_hn  right
+98  show hn: ar hand puppets and more from 2d/3d feature point extraction cnns  show_hn  -11.380463  -9.355029  93.301150  -inf  show_hn  right
+99  show hn: collection of go examples for beginner back end developers  show_hn  -12.953421  -11.968668  90.278309  -inf  show_hn  right

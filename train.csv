@@ -1,0 +1,401 @@
+,Object ID,Title,Post Type,Author,Created At,URL,Points,Number of Comments
+0,1,Y Combinator,story,pg,2006-10-09 18:21:51,http://ycombinator.com,61,18.0
+1,2,A Student's Guide to Startups,story,phyllis,2006-10-09 18:30:28,http://www.paulgraham.com/mit.html,16,1.0
+2,3,Woz Interview: the early days of Apple,story,phyllis,2006-10-09 18:40:33,http://www.foundersatwork.com/stevewozniak.html,7,1.0
+3,4,NYC Developer Dilemma,story,onebeerdave,2006-10-09 18:47:42,http://avc.blogs.com/a_vc/2006/10/the_nyc_develop.html,5,1.0
+4,5,"Google, YouTube acquisition announcement could come tonight",story,perler,2006-10-09 18:51:04,http://www.techcrunch.com/2006/10/09/google-youtube-sign-more-separate-deals/,7,1.0
+5,6,Business Intelligence the Inkling Way: cool prediction markets software,story,perler,2006-10-09 18:56:40,http://360techblog.com/2006/10/02/business-intelligence-the-inkling-way/,4,1.0
+6,7,Sevin Rosen Unfunds - why?,story,phyllis,2006-10-09 19:00:55,http://featured.gigaom.com/2006/10/09/sevin-rosen-unfunds-why/,5,0.0
+7,8,LikeBetter featured by BBC,story,frobnicate,2006-10-09 19:17:39,http://news.bbc.co.uk/2/hi/programmes/click_online/5412216.stm,10,0.0
+8,9,weekendr: social network for the weekend,story,askjigga,2006-10-09 19:19:02,http://www.weekendr.com/,4,0.0
+9,10,PhotoShow: Broadcast Photos to Cable TV,story,frobnicate,2006-10-09 19:21:14,http://www.techcrunch.com/2006/10/09/broadcast-photos-to-cable-tv/,3,1.0
+10,11,Participation Inequality: Encouraging More Users to Contribute,story,frobnicate,2006-10-09 19:24:44,http://www.useit.com/alertbox/participation_inequality.html,5,1.0
+11,12,Wired: The Desktop is Dead,story,farmer,2006-10-09 19:28:32,http://wired.com/wired/archive/14.10/cloudware.html,5,1.0
+12,13,The Hardest Lessons for Startups to Learn,story,phyllis,2006-10-09 19:36:12,http://www.paulgraham.com/startuplessons.html,5,1.0
+13,14,Small is Beautiful: Building a Successful Company with Less Capital,story,pg,2006-10-09 19:50:20,http://blogs.zdnet.com/BTL/?p=3738,4,1.0
+14,16,Feld: Question Regarding NDAs,story,pg,2006-10-09 19:51:43,http://www.feld.com/blog/archives/001979.html,11,1.0
+15,18,Voddler Raises $2.2M For Virtual Cable TV,story,farmer,2006-10-09 19:55:46,http://www.thealarmclock.com/euro/archives/2006/10/stockholmnfounded_vo.html,3,1.0
+16,19,Will Silicon Light Illuminate the Future?,story,pg,2006-10-09 19:59:03,http://www.technologyreview.com/read_article.aspx?id=17588&ch=energy,2,1.0
+17,20,Salaries at VC-backed companies,story,pg,2006-10-09 20:00:38,http://avc.blogs.com/a_vc/2006/10/search_by_salar.html,8,3.0
+18,21,Best IRR ever?  YouTube 1.65B...,story,sama,2006-10-10 01:21:11,http://www.techcrunch.com/2006/10/09/google-has-acquired-youtube/,6,3.0
+19,24,MySpace: Not a purely viral start,story,starklysnarky,2006-10-10 03:54:25,http://www.startup-review.com/blog/myspace-case-study-not-a-purely-viral-start.php,9,1.0
+20,25,A Story About Not Going IPO During The Bubble,story,starklysnarky,2006-10-10 05:33:32,http://www.usatoday.com/money/industries/technology/2004-04-21-sas-culture_x.htm,5,1.0
+21,27,Google Acquires YouTube For $1.6B,story,spez,2006-10-10 14:04:03,http://www.google.com/press/pressrel/google_youtube.html,12,1.0
+22,32,Scratchtop - notepad for the web,story,eshear,2006-10-10 15:43:00,http://scratchtop.com,5,1.0
+23,37,"Woah, Scrybe! - A new kind of online organiser.",story,gaborcselle,2006-10-10 20:13:54,http://marcusfoster.com/blog/2006/10/09/woah-scrybe/,4,3.0
+24,38,Dot-Com Boom Echoed in Deal to Buy YouTube - New York Times,story,farmer,2006-10-10 20:44:53,http://www.nytimes.com/2006/10/10/technology/10deal.html?ex=1318132800&en=d8a82aacfcbbe1ee&ei=5090&partner=rssuserland&emc=rss,3,1.0
+25,39,Competitio.us: track your competitors online,story,frobnicate,2006-10-10 20:55:50,http://www.techcrunch.com/2006/10/04/competitous-track-your-competition-online/,3,1.0
+26,40,Scoble: Google web apps &#34;will sneak in the back door&#34;,story,pg,2006-10-10 20:59:01,"http://www.cioinsight.com/print_article2/0,1217,a=190067,00.asp",3,1.0
+27,42,An alternative to VC: &#34;Selling In&#34;,story,sergei,2006-10-11 02:10:01,http://www.venturebeat.com/contributors/2006/10/10/an-alternative-to-vc-selling-in/,5,1.0
+28,43,Yahoo's Growth Being Eroded by New Rivals - New York Times,story,farmer,2006-10-11 14:45:01,http://www.nytimes.com/2006/10/11/technology/11yahoo.html?ex=1318219200&en=538f73d9faa9d263&ei=5090&partner=rssuserland&emc=rss,3,3.0
+29,45,Coghead Goes Live: Build Applications Visually,story,perler,2006-10-11 15:04:38,http://www.techcrunch.com/2006/10/11/coghead-goes-live-build-applications-visually/,5,1.0
+30,46,Rentometer: Check How Your Rent Compares to Others in Your Area,story,goldfish,2006-10-11 15:39:28,http://www.rentometer.com/,4,1.0
+31,47,Another audience-driven news site that thinks it will win by paying users ,story,onebeerdave,2006-10-11 21:47:48,http://business2.blogs.com/business2blog/2006/10/startup_watch_c.html,2,1.0
+32,49,Preezo Enters Online Office Race,story,pg,2006-10-12 13:30:14,http://www.techcrunch.com/2006/10/11/preezo-enters-online-office-race/,4,1.0
+33,50,Boston VCs invest in fewer consumer Internet startups than Silicon Valley firms,story,pg,2006-10-12 13:59:30,http://masshightech.bizjournals.com/masshightech/stories/2006/09/25/story8.html,4,1.0
+34,51,How Much Money Do You Make?,story,phyllis,2006-10-12 19:13:26,http://www.techcrunch.com/2006/10/12/how-much-money-do-you-make/,3,1.0
+35,52,Winners and Losers in the Google YouTube deal,story,onebeerdave,2006-10-12 19:19:00,http://polls.gigaom.com/2006/10/09/goobed/,2,1.0
+36,53,Top ten geek business myths,story,gaborcselle,2006-10-12 22:38:42,http://rondam.blogspot.com/2006/10/top-ten-geek-business-myths.html,7,1.0
+37,54,The PayPerPost Virus Spreads,story,phyllis,2006-10-13 14:45:22,http://www.techcrunch.com/2006/10/12/the-payperpost-virus-spreads/,1,1.0
+38,55,"RealTravel Trip Planner: Cut, Paste & Share Travel Tips",story,perler,2006-10-13 14:46:50,http://www.techcrunch.com/2006/10/13/realtravel-trip-planner-cut-paste-share-travel-tips/,2,1.0
+39,56,Cyberface: New technology that &#34;captures the soul&#34;,story,pg,2006-10-14 15:43:45,http://www.nytimes.com/2006/10/15/movies/15waxm.html?ex=1318564800&en=e5fbcfe899f7c41d&ei=5090&partner=rssuserland&emc=rss,4,1.0
+40,57,Black triangle: a useful shorthand and metaphor,story,adamsmith,2006-10-14 22:55:41,http://www.rampantgames.com/blog/2004/10/black-triangle.html,12,2.0
+41,58,NYT: How Friendster Blew It,story,frobnicate,2006-10-15 22:48:30,http://www.nytimes.com/2006/10/15/business/yourmoney/15friend.html?ex=1318564800&en=3e9438ed349f7ce7&ei=5090&partner=rssuserland&emc=rss,7,1.0
+42,59,NYT on the network of ex-PayPal employees in Silicon Valley,story,gaborcselle,2006-10-17 08:32:33,http://www.nytimes.com/2006/10/17/technology/17paypal.html?ex=1318737600&en=6fcef6809e87f6fc&ei=5090&partner=rssuserland&emc=rss,3,1.0
+43,61,VCs Prefer to Fund Nearby Firms - New York Times,story,goldfish,2006-10-22 18:29:55,http://www.nytimes.com/2006/10/22/business/yourmoney/22digi.html?ex=1319169600&en=fc0cc8346b8b9382&ei=5090&partner=rssuserland&emc=rss,2,1.0
+44,62,Productivity Surges During Reddit Downtime,story,pg,2006-12-14 16:12:10,http://rura.org/blog/2006/12/13/productivity-surges-amid-reddit-downtime/,3,1.0
+45,63,From Oxford to Silicon Valley,story,kul,2007-02-19 02:30:24,http://news.bbc.co.uk/2/hi/business/6355289.stm,25,4.0
+46,65,Y Europe can seed growth of its new stars,story,perler,2007-02-19 02:38:20,http://localglobe.blogspot.com/2007/02/y-europe-can-seed-growth-of-its-new.html,13,1.0
+47,66,Adobe gives new flash tools only to Photobucket,story,pg,2007-02-19 02:42:31,http://www.techcrunch.com/2007/02/16/newest-flash-tools-on-display-at-photobucket/,12,1.0
+48,72,New Revenue Stream For Bloggers: TextMark SMS Alerts,story,onebeerdave,2007-02-19 03:23:39,http://www.techcrunch.com/2007/02/18/new-revenue-stream-for-bloggers-textmark-sms-alerts/,3,0.0
+49,74,Startup School 2007: 3/24 at Stanford,story,phyllis,2007-02-19 03:57:19,http://startupschool.org/,37,0.0
+50,75,Learning from Founders,story,phyllis,2007-02-19 04:07:20,http://www.paulgraham.com/foundersatwork.html,13,0.0
+51,77,Tech's younger generation leans on Web 2.0 for love,story,phyllis,2007-02-19 04:13:45,http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/02/14/MNGEVO4DOV1.DTL&hw=jessica+guynn&sn=001&sc=1000,9,2.0
+52,78,Alexa's Inaccurate Traffic Stats Become More Detailed,story,matt,2007-02-19 04:21:56,http://mashable.com/2007/02/16/alexas-inaccurate-traffic-stats-become-more-detailed/,8,0.0
+53,81,allfreecalls.com shut down by AT&T,story,justin,2007-02-19 07:12:10,http://www.techcrunch.com/2007/02/16/allfreecalls-shut-down/,5,0.0
+54,83,Why Startups Don't Condense in Europe,story,gaborcselle,2007-02-19 09:42:28,http://www.gaborcselle.com/blog/2006/12/why-startups-dont-condense-in-europe.html,12,0.0
+55,84,Sell more of your product by throwing out some of its features?,story,nate,2007-02-19 17:36:02,http://code.inklingmarkets.com/journal/2007/2/16/sell-more-of-your-product-by-throwing-out-some-of-its-features.html,6,0.0
+56,85,Hack your desk to remove the clutter,story,nate,2007-02-19 17:38:58,http://lifehacker.com/software/diy/diy-underdesk-gadget-mount-237789.php,5,0.0
+57,86,Project management alternative to basecamp - ticketing and version control too :),story,adam_inkling,2007-02-19 17:45:54,http://unfuddle.com,10,0.0
+58,89,Win A Copy Of Yojimbo - a pretty good organizer for the Mac.,story,nate,2007-02-19 17:47:26,http://macapper.com/2007/02/19/win-a-copy-of-yojimbo/,2,0.0
+59,90,Where all the cool kids get their icons,story,adam_inkling,2007-02-19 17:50:35,http://famfamfam.com,11,0.0
+60,91,SunRocket cofounders up and leave,story,pc,2007-02-19 18:01:03,http://www.washingtonpost.com/wp-dyn/content/article/2007/02/11/AR2007021101198.html?nav=rss_technology,5,0.0
+61,92,Track users' mouse movements on your webpages,story,greg,2007-02-19 18:09:20,http://www.clicktale.com/,10,0.0
+62,93,Google's Searchmash adds inline video,story,pc,2007-02-19 18:19:02,http://www.searchmash.com/search/star+wars+kid,6,0.0
+63,94,Premium GMail Coming Soon - $25/yr for 6 Gigs,story,thecurve,2007-02-19 18:19:41,http://www.chron.com/disp/story.mpl/ap/fn/4552107.html,11,0.0
+64,95,YouTube: &#34;identifying copyrighted material can't be an automated process.&#34; Startup disagrees.,story,pc,2007-02-19 18:21:46,http://www.iht.com/articles/2007/02/19/business/piracy.php,8,0.0
+65,96,Google's Build Your Campus in 3D Competition,story,thecurve,2007-02-19 18:24:20,http://googleblog.blogspot.com/2007/01/show-us-your-university-campus-in-3d.html,4,0.0
+66,97,An Overview of the Five Gazillion Video Startups,story,emmett,2007-02-19 18:29:22,http://www.readwriteweb.com/archives/online_video_index.php,11,0.0
+67,98,25 Most Interesting VoIP Startups,story,farmer,2007-02-19 18:35:19,http://www.voip-news.com/feature/25-most-interesting-voip-startups-021207/,6,0.0
+68,99,The Google-Powered Business,story,pg,2007-02-19 18:37:29,http://blog.radioactiveyak.com/2006/07/googleoffice-beta-google-powered.html,5,0.0
+69,100,"SpikeSource, CA-based startup, becomes Ubuntu commercial support provider for US",story,pc,2007-02-19 18:38:08,http://www.linux-watch.com/news/NS7616991195.html,6,1.0
+70,101,Dutch Sharewire Taking Mobile Content Off Deck,story,pg,2007-02-19 18:40:49,http://www.thealarmclock.com/euro/archives/2007/02/dutch_sharewire_taki.html#Permalink,4,1.0
+71,102,Screencast of DabbleDB -- web-based DBMS coded in Smalltalk,story,pc,2007-02-19 18:43:09,http://dabbledb.com/explore/7minutedemo/,19,7.0
+72,103,Google acquires advertising startup,story,emmett,2007-02-19 18:47:28,http://www.techcrunch.com/2007/02/16/google-to-buy-adscape-for-23-million/,6,1.0
+73,104,Founders: The involved vs. the committed,story,farmer,2007-02-19 18:51:02,http://onstartups.com/home/tabid/3339/bid/1204/Startup-Founders-The-Involved-vs-The-Committed.aspx,22,7.0
+74,105,new fantasy movie league startup,story,justin,2007-02-19 19:33:42,http://www.techcrunch.com/2007/02/16/amazon-funds-fantasy-movies-league/,4,1.0
+75,106,teqlo: yahoo pipes competitor allows you to make your own apps online,story,justin,2007-02-19 19:36:04,http://mashable.com/2007/02/18/teqlo/,9,1.0
+76,107,How much control should our users have?,story,gautam,2007-02-19 19:49:47,http://headrush.typepad.com/creating_passionate_users/2007/02/how_much_contro.html,5,3.0
+77,108,Social-Networking Sites Open Up,story,casey,2007-02-19 19:54:01,http://www.businessweek.com/technology/content/feb2007/tc20070213_172619.htm,9,1.0
+78,109,Do YOU have the balls to try? Part I,story,matt,2007-02-19 20:03:20,http://james.hotornot.com/2007/01/do-you-have-balls-to-try-part-i.html,19,4.0
+79,110,"On Having Balls, Part II: Staying Hungry",story,matt,2007-02-19 20:04:27,http://james.hotornot.com/2007/02/on-having-balls-part-ii-staying-hungry.html,67,3.0
+80,111,Add a little more random to your product,story,matt,2007-02-19 20:06:43,http://headrush.typepad.com/creating_passionate_users/2007/01/add_a_little_mo.html,9,1.0
+81,112,unusual business: multiethnic wedding cake figurines,story,eric,2007-02-19 20:12:41,http://uncommonbusiness.blogspot.com/2007/02/wacky-business-idea-multiethnic-wedding.html,3,1.0
+82,113, Isolating Causality: Bad Market or Bad Company,story,casey,2007-02-19 20:16:10,http://willprice.blogspot.com/2007/02/isolating-causality-bad-market-or-bad.html,3,1.0
+83,114,startup lessons for 2007,story,eric,2007-02-19 20:16:13,http://www.readwriteweb.com/archives/6_startup_lessons_2007.php,10,1.0
+84,115,maps mashups just got easier: GeoKit,story,eric,2007-02-19 20:25:25,http://weblog.rubyonrails.org/2007/2/16/google-maps-with-rails-and-ajax,4,1.0
+85,116,What's good for users is what is good for the business... who knew? ,story,mwseibel,2007-02-19 20:26:51,http://headrush.typepad.com/creating_passionate_users/2007/02/test.html,6,1.0
+86,117,The 10/20/30 Rule of PowerPoint,story,mwseibel,2007-02-19 20:42:43,http://blog.guykawasaki.com/2005/12/the_102030_rule.html,6,1.0
+87,118,Presenting to VCs,story,mwseibel,2007-02-19 20:42:55,http://blog.guykawasaki.com/2005/12/the_102030_rule.html,4,1.0
+88,119,The Web 2.0 Video,story,mwseibel,2007-02-19 20:51:43,http://battellemedia.com/archives/003342.php,5,1.0
+89,120,Finally mobile flash video,story,mwseibel,2007-02-19 20:55:35,http://www.mercurynews.com/mld/mercurynews/16680147.htm,7,1.0
+90,121,Hard disc test surprises Google,story,pg,2007-02-19 22:05:40,http://news.bbc.co.uk/2/hi/technology/6376021.stm,24,12.0
+91,122,Seven steps to remarkable customer service,story,beau,2007-02-19 22:19:36,http://www.joelonsoftware.com/articles/customerservice.html,83,16.0
+92,123,"Design Quotations: &#34;And if in fact you do know the exact cost and the exact schedule, chances are that the technology is obsolete.&#34;",story,beau,2007-02-19 22:21:13,http://design.caltech.edu/erik/Misc/design_quotes.html,8,1.0
+93,124,Startup news link submission site.,story,herdrick,2007-02-19 22:44:06,http://news.ycombinator.com/,58,38.0
+94,126,Make a claim with OpenID on Jyte,story,farmer,2007-02-19 23:32:16,http://www.techcrunch.com/2007/02/19/make-a-claim-with-openid-on-jyte/,2,1.0
+95,128,User Interface Design For Programmers,story,danny,2007-02-20 00:17:11,http://www.joelonsoftware.com/uibook/fog0000000249.html,15,1.0
+96,129,Snipshot &#34;the best&#34; online photo editor,story,perler,2007-02-20 00:38:21,http://pulse2.com/2007/02/19/snipshot-steals-online-photo-pic-a-nik-baskets/,21,6.0
+97,131,"Start up doing what? That's right, we really don't know.",story,wastedbrains,2007-02-20 02:21:25,http://blog.pretheory.com/arch/000398.php,18,11.0
+98,134, Adding Idempotent Event Handling to your Javascript Toolkit,story,bosky101,2007-02-20 03:56:18,http://bosky101.blogspot.com/2007/02/adding-idempotent-event-handling-to.html,3,1.0
+99,135,The Startup Blog : The Next Wave of Education - Grooming Entrepreneur...,story,bosky101,2007-02-20 03:58:07,http://thestartupblog.blogspot.com/2006/03/next-wave-of-education-grooming.html,2,1.0
+100,121003,Ask HN: The Arc Effect,ask_hn,tel,2008-02-22 02:33:40,,25,16.0
+101,127952,Ask HN: I want to make a webapp. Where do I start?,ask_hn,subhash,2008-03-03 09:44:50,,14,34.0
+102,128917,Ask HN: Where do you stand on privacy?,ask_hn,h34t,2008-03-04 16:31:54,,4,11.0
+103,131673,Ask HN: Could you implement News.YC in your favorite language?,ask_hn,aswanson,2008-03-08 01:15:39,,4,9.0
+104,133543,Ask HN: Does anyone here play golf?,ask_hn,jgrahamc,2008-03-10 22:41:44,,2,7.0
+105,134070,Ask HN: how to be a VC?,ask_hn,yters,2008-03-11 08:29:22,,7,9.0
+106,135249,Ask HN: Giving raises after a series A round,ask_hn,mpc,2008-03-12 16:48:27,,15,7.0
+107,135318,Ask HN: Consulting on the side,ask_hn,twampss,2008-03-12 17:45:34,,5,6.0
+108,136113,Ask HN: Does anyone know of am open source flash mp3 player?,ask_hn,piers,2008-03-13 17:52:52,,4,1.0
+109,136926,Ask HN: documentation format?,ask_hn,binglo,2008-03-14 17:16:17,,6,15.0
+110,137046,Ask HN: Is Apple becoming the next Sony?,ask_hn,hobbs,2008-03-14 18:56:07,,3,2.0
+111,141906,Ask HN: Any novel aproaches to being sick?,ask_hn,abstractbill,2008-03-20 20:35:21,,2,4.0
+112,142879,Ask HN: Is there some data-mining startup guys?,ask_hn,ahold,2008-03-21 22:40:39,,1,0.0
+113,144406,"Ask HN: Coworking Owners, What are Your Membership Policies?",ask_hn,iamdave,2008-03-24 07:42:22,,3,1.0
+114,145631,ASK HN: Going around a tech recruiter,ask_hn,mpc,2008-03-25 12:33:23,,10,16.0
+115,145972,Ask HN: Stock my ipod--share your favorite podcast episodes,ask_hn,ericb,2008-03-25 19:06:53,,2,0.0
+116,147503,Ask HN: S2008 applicant weed out question?,ask_hn,thomasswift,2008-03-27 02:23:38,,1,1.0
+117,150864,Ask HN: Autoposting script?,ask_hn,bkrausz,2008-03-31 08:15:02,,5,14.0
+118,151347,Ask HN: Why should I use OpenID?,ask_hn,pierrefar,2008-03-31 21:29:45,,31,30.0
+119,152805,Ask HN: Extraordinary people who have inspired you,ask_hn,as,2008-04-02 05:02:31,,3,13.0
+120,153487,Ask HN: Choosing a Python framework for web development?,ask_hn,aneel99,2008-04-03 00:35:18,,38,39.0
+121,154235,Ask HN: Metrics for startups?,ask_hn,aggieben,2008-04-03 20:34:45,,2,3.0
+122,155831,"Ask HN: being accused of running sockpuppets, what would you do?",ask_hn,gaika,2008-04-05 22:16:04,,1,3.0
+123,156032,Ask HN: it is acceptable to pitch to bloggers about your site?,ask_hn,hashtable,2008-04-06 05:35:58,,5,6.0
+124,156121,Ask HN: when does your bullshit filter turn on?,ask_hn,admp,2008-04-06 11:57:20,,3,6.0
+125,157494,Ask HN: what software do you use for analyzing apache logs?,ask_hn,hashtable,2008-04-08 03:19:00,,33,21.0
+126,157606,Ask HN: What sorts of theory work best in practice for you?,ask_hn,carterschonwald,2008-04-08 05:34:52,,1,0.0
+127,157789,"Ask HN: How long will it take, while Micro$oft starts to work on Unix based OS?",ask_hn,ahold,2008-04-08 12:28:49,,1,3.0
+128,157983,Ask HN: What was an idea or concept that made sense to you only after a small epiphany?,ask_hn,clueless,2008-04-08 16:17:57,,3,3.0
+129,158656,Ask HN: Good online link checker?,ask_hn,jgrahamc,2008-04-09 07:47:29,,2,1.0
+130,162698,Ask HN on: Controlling trolling,ask_hn,aswanson,2008-04-14 00:21:47,,12,19.0
+131,162884,Ask HN: Lead generation? (consulting),ask_hn,goofygrin,2008-04-14 05:07:19,,18,13.0
+132,164014,"Ask HN: If you had a chance to rebuild the internet, what would you change?",ask_hn,c1sc0,2008-04-15 11:34:21,,13,56.0
+133,164843,Ask HN: American web working abroad,ask_hn,noodle,2008-04-16 03:23:54,,9,11.0
+134,166186,Ask HN: reverse drm and user-contributed content : ideas & experiences?,ask_hn,c1sc0,2008-04-17 08:28:50,,1,0.0
+135,166842,Ask HN: Proto-hacker looking for a startup job,ask_hn,as,2008-04-18 00:39:45,,2,0.0
+136,169236,Ask HN: Legality of RSS Feed Usage in Web Apps?,ask_hn,mstefff,2008-04-21 09:08:24,,5,5.0
+137,170953,Ask HN: How to choose a name for a web app?,ask_hn,mstefff,2008-04-22 20:58:02,,9,25.0
+138,170976,Ask HN: One page site/app + advertising revenue?,ask_hn,goofygrin,2008-04-22 21:14:41,,9,23.0
+139,171312,Ask HN: do you spend more time on HN when your work sucks?,ask_hn,menloparkbum,2008-04-23 05:38:09,,2,2.0
+140,171797,Ask HN: What was/is your limit for private beta users?,ask_hn,rokhayakebe,2008-04-23 19:46:34,,3,0.0
+141,172496,"Ask HN :: Android + GAE + ""C-Block"" -- Has Google already won the ""mobile phone wars""?",ask_hn,fiaz,2008-04-24 14:50:57,,3,1.0
+142,174886,Ask HN: PHP/postgres authentication library/app?,ask_hn,xenoterracide,2008-04-27 15:28:37,,1,0.0
+143,175116,Ask HN: Lisp / functional programming freelance experiences?,ask_hn,dualogy,2008-04-27 23:17:54,,11,6.0
+144,175282,Ask HN: Where do I start if I want to learn AJAX?,ask_hn,Frocer,2008-04-28 03:43:30,,26,38.0
+145,175344,Ask HN: how do I learn flash?,ask_hn,menloparkbum,2008-04-28 05:00:08,,2,0.0
+146,175447,Ask HN: Web API's That Allow Commercial Usage?,ask_hn,mstefff,2008-04-28 07:36:37,,3,2.0
+147,176029,Ask HN: Test driven web development,ask_hn,sprig,2008-04-28 21:17:15,,1,2.0
+148,176877,Ask HN: Intellectual property 101,ask_hn,wensing,2008-04-29 19:18:02,,1,2.0
+149,177572,Ask HN: Which XP/Vista editions can be legally virtualized?,ask_hn,ahold,2008-04-30 16:08:20,,1,0.0
+150,178258,Ask HN: How do you work?,ask_hn,nurall,2008-05-01 09:10:54,http://money.cnn.com/2006/03/02/news/newsmakers/howiwork_fortune_032006/index.htm,12,6.0
+151,179523,Ask HN: best (toy) robotics platform?,ask_hn,Tichy,2008-05-02 15:00:17,,1,2.0
+152,180311,Ask HN: What load balancing software do you use ?,ask_hn,whyleyc,2008-05-03 16:54:18,,47,37.0
+153,181010,Ask HN: Any users of SimpleCDN?,ask_hn,thorax,2008-05-04 22:05:12,,13,26.0
+154,181124,Ask HN: Best IP geolocation service?,ask_hn,tonyvt2005,2008-05-05 01:54:02,,5,6.0
+155,181814,Ask HN: Transitioning From PHP to Django,ask_hn,noelchurchill,2008-05-05 20:28:48,,5,8.0
+156,181840,Ask HN: Please review this site from my friend.,ask_hn,eugenejen,2008-05-05 20:56:01,http://www.wirewize.com/,6,9.0
+157,183276,Ask HN: an interesting promotion tool for startups?,ask_hn,mattjung,2008-05-07 09:50:22,http://www.thebigwordproject.com/,1,0.0
+158,184718,"Ask HN: Geocoding for film/tv/fiction locations, historical events",ask_hn,eugenejen,2008-05-08 16:43:41,,1,0.0
+159,185580,Ask HN: Amazon flexible web payments?,ask_hn,thorax,2008-05-09 15:58:48,,16,6.0
+160,186735,Ask HN: Which mobile platform is your favorite?,ask_hn,DenisM,2008-05-11 05:50:05,,5,18.0
+161,187362,Ask HN: Free (Quality) Financial/Stock Content/Widget?,ask_hn,mstefff,2008-05-12 06:57:39,,2,1.0
+162,187591,Ask HN: Is Facebook worth $15 Billion?,ask_hn,ideas101,2008-05-12 14:25:38,,1,2.0
+163,189653,"Ask HN/YC: Early stage startup, equity for a non executive co-founder ",ask_hn,obelix,2008-05-14 15:12:42,,1,2.0
+164,190824,Ask HN: Why be an option/futures/day trader when it is zero-sum?,ask_hn,hashtable,2008-05-15 19:41:05,,27,67.0
+165,191899,Ask HN: Subscription web sites: How did you get your first customer?,ask_hn,bkovitz,2008-05-16 16:09:16,,70,50.0
+166,192103,Ask HN: How did you do on the Android Dev Challenge?,ask_hn,martythemaniak,2008-05-16 18:48:20,,4,5.0
+167,192430,Ask HN: Where to look for info on E-Commerce websites?,ask_hn,kp212,2008-05-17 02:41:10,,2,3.0
+168,192924,Ask HN: Is it possible to think well with noise?,ask_hn,asdflkj,2008-05-17 21:15:49,,6,20.0
+169,192953,Ask HN: Have you used iptables to prevent procrastination?,ask_hn,b3eck,2008-05-17 21:58:12,,8,10.0
+170,193383,"Ask HN: Tell people about your idea, or keep it to yourself?",ask_hn,bapbap,2008-05-18 15:06:43,,6,13.0
+171,193440,Ask HN: Erlang and network connections?,ask_hn,Tichy,2008-05-18 16:40:31,,6,7.0
+172,193524,Ask HN: F/OSS Build Automation for C#,ask_hn,kleevr,2008-05-18 18:52:24,,4,9.0
+173,193676,Ask HN: Collaborative Filtering + Interweb == Good Times?,ask_hn,earle,2008-05-18 22:35:23,,12,8.0
+174,197319,Ask HN: What Linux-distro to learn about Linux?,ask_hn,schtog,2008-05-22 17:29:53,,1,4.0
+175,199103,Ask HN: Sites/non-web things you use?,ask_hn,xenoterracide,2008-05-24 22:19:15,,6,9.0
+176,199248,Ask HN: Any way to get back in Google AdSense's good books?,ask_hn,bapbap,2008-05-25 01:31:26,,3,3.0
+177,199496,Ask HN: Is a distcc style plugin for professional workgroups an idea whose time has come?,ask_hn,jamess,2008-05-25 13:01:26,,4,4.0
+178,199892,Ask HN: Streaming stock market data?,ask_hn,yourabi,2008-05-26 02:15:14,,1,2.0
+179,200370,Ask HN: definition of a highlevel language?,ask_hn,globalrev,2008-05-26 18:34:17,,5,12.0
+180,200394,Ask HN: any interest in a hacker social network?,ask_hn,shmup,2008-05-26 19:20:14,,1,4.0
+181,200559,Ask HN: good place to store code online?,ask_hn,schtog,2008-05-27 00:47:48,,23,45.0
+182,200670,Ask HN: How hard is your problem?,ask_hn,aaronblohowiak,2008-05-27 04:17:46,,31,54.0
+183,201049,Ask HN: Instant Twitter Clone with WordPress?,ask_hn,Tichy,2008-05-27 15:20:22,,1,0.0
+184,201344,Ask HN: Closed beta or release the product now?,ask_hn,grag,2008-05-27 20:05:19,,7,6.0
+185,201483,Ask HN: Grad School,ask_hn,bobj,2008-05-27 22:24:48,,2,2.0
+186,201847,Ask HN: Program to build webpages?,ask_hn,globalrev,2008-05-28 06:57:16,,1,5.0
+187,202160,Ask HN: what would you like to see in Windows 7 to be happy?,ask_hn,ideas101,2008-05-28 15:06:06,,1,1.0
+188,202161,Ask HN: an archive for RSS feeds (similar to the wayback machine)?  ,ask_hn,urlwolf,2008-05-28 15:07:01,,2,5.0
+189,202568,Ask HN: What's your search traffic breakdown?,ask_hn,jon_dahl,2008-05-28 20:13:09,,1,1.0
+190,202918,Ask HN: What are some good biographies to read?,ask_hn,stevenboudreau,2008-05-29 03:11:06,,27,61.0
+191,203130,Ask HN: Shopping in the US from Europe (Shopping-Proxy)?,ask_hn,Tichy,2008-05-29 08:35:34,,1,0.0
+192,203377,Ask HN: coding challenges as part of interviews: yes or no?,ask_hn,rtc,2008-05-29 16:04:13,,17,57.0
+193,203484,Ask HN: tips about VCs and angels,ask_hn,schtog,2008-05-29 18:04:35,,5,5.0
+194,204408,Ask HN: feedback on early version of tool: ECMAScript 4 - JavaScript translator,ask_hn,olavk,2008-05-30 14:59:43,http://www.ecmascript4.com/?hn,2,1.0
+195,204484,Ask HN: How to deal with patents?,ask_hn,amjith,2008-05-30 15:50:40,,12,10.0
+196,204517,Ask HN:  How would you teach kids to program?,ask_hn,te_platt,2008-05-30 16:07:23,,2,9.0
+197,204706,ASK HN - Good worksheet for estimating startup costs?,ask_hn,mikeryan,2008-05-30 18:29:05,,2,0.0
+198,204734,ASK HN - Good worksheet for estimating startup costs?,ask_hn,mikeryan,2008-05-30 18:52:42,,2,0.0
+199,204927,ASK HN - Good worksheet for estimating startup costs?,ask_hn,mikeryan,2008-05-30 22:58:17,,1,0.0
+200,510264,Show HN: Our new online face recognition demo,show_hn,lbrandy,2009-03-10 17:33:00,http://webdemo.pittpatt.com/recognition_demo/,50,25.0
+201,512080,Show HN: JStartup - Hacker News for news people/journalists,show_hn,brandnewlow,2009-03-11 17:25:49,http://jstartup.com/,2,0.0
+202,521135,Show HN: Code draws better than you,show_hn,ktharavaad,2009-03-18 03:51:27,http://blog.kpicturebooth.com/?p=25,19,7.0
+203,577224,Show HN: Hacking is not Cracking,show_hn,hellweaver666,2009-04-24 09:24:05,http://www.hackingisnotcracking.com/,3,15.0
+204,870058,Show HN: Checkout the app my company helped launch,show_hn,clistctrl,2009-10-08 21:53:19,http://commonwealthfund.org/Charts-and-Maps/State-Scorecard-2009.aspx,1,0.0
+205,932338,Show HN: How ShoveBox is Handling MacHeist Traffic,show_hn,dangrover,2009-11-10 03:09:59,http://files.dangrover.com/macheistbox.png,16,6.0
+206,954089,Show HN: I wrote a nifty perl script for managing projects. Thoughts?,show_hn,windsurfer,2009-11-21 03:19:05,http://pastebin.com/d30b64026,3,2.0
+207,982764,"Show HN: my weekend project, jetsetter",show_hn,paulsingh,2009-12-08 01:38:46,,2,0.0
+208,1030256,Show HN: Check our crowd-sourcing project: One Frame Of Fame.,show_hn,PanMan,2010-01-04 13:09:40,http://oneframeoffame.com/,2,1.0
+209,1043491,"Show HN: My latest pet project, pydroid",show_hn,meese_,2010-01-10 19:22:33,http://github.com/msanders/pydroid#readme,109,50.0
+210,1043985,Show HN: My exercise bike hooked up to an xbox - pedal faster to drive faster.,show_hn,acgourley,2010-01-11 00:31:58,http://projectexcitebike.blogspot.com/,76,22.0
+211,1051967,"Show HN: gleeBox, keyboard glee for your web",show_hn,ankit_,2010-01-14 05:03:24,http://thegleebox.com,39,31.0
+212,1061953,"Show HN: My Snake-implemetation, how I taught myself GLSL",show_hn,maggit,2010-01-19 12:16:15,http://bitbucket.org/maghoff/snygg/wiki/Home,24,11.0
+213,1108016,Show HN: PatchBin.com - Pastebin for patches + comments + code review.,show_hn,antileet,2010-02-07 18:23:07,http://patchbin.com/haLJ28,45,13.0
+214,1125315,Show HN: My project for this weekend (with source),show_hn,fortes,2010-02-14 21:33:06,http://www.softhyphen.com/,120,39.0
+215,1125408,Show HN: My 2-Hour Twilio App,show_hn,ed,2010-02-14 22:21:28,http://txt2ping.com,57,24.0
+216,1125422,Show HN: My Weekend Project -- A Clone of HN Built on Pligg,show_hn,sscheper,2010-02-14 22:29:42,http://zayng.com/,18,8.0
+217,1125636,Show HN: My 30 minute Aardvark clone,show_hn,nose,2010-02-15 00:58:01,http://www.flickr.com/photos/chiragshah/4357082341/,5,0.0
+218,1126765,Show HN: SMS My TV Show (find out when your show is on next),show_hn,eapen,2010-02-15 15:37:59,http://eapen.in/apps/,4,6.0
+219,1127606,Show HN: Unit Testing in VS2010 (Native C++),show_hn,wowus,2010-02-15 21:51:55,http://github.com/wowus/CTH,1,1.0
+220,1127654,Show HN: Meet the new Ajax IM (with Node.js),show_hn,endtwist,2010-02-15 22:06:22,http://ajaxim.com,95,18.0
+221,1132253,Show HN: Interview Engine,show_hn,yurylifshits,2010-02-17 19:23:25,http://interview2010.com,5,1.0
+222,1136840,"Show HN again: My new spec list app, Speckle - now with a homepage.",show_hn,elliottkember,2010-02-19 13:29:34,http://speckleapp.com/?2,13,32.0
+223,1147041,Show HN: Am I Haiku or Not?,show_hn,jcdreads,2010-02-24 01:59:13,http://daghlian.com/haiku,1,1.0
+224,1147967,Show HN: Text Message turns on blender,show_hn,Madhav_,2010-02-24 13:48:57,http://www.youtube.com/watch?v=226kdTCxLsA,4,3.0
+225,1154718,Show HN: my story generator using answer-set programming,show_hn,rndmcnlly0,2010-02-27 01:58:32,http://gist.github.com/316398,7,3.0
+226,1159834,Show HN: My company released a new iphone App,show_hn,clistctrl,2010-03-01 21:32:47,http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=347386708&mt=8,2,0.0
+227,1164596,Show HN: Backtype's (YC S'08) Twitter tracking lags far behind Tweetmeme,show_hn,brandnewlow,2010-03-03 17:33:45,http://www.windycitizen.com/chicago/crime/2010/03/03/missing-in-chicago-have-you-seen-this-man,5,4.0
+228,1173177,Show HN: My blooper reel tribute to other YC S10 applicants,show_hn,follower,2010-03-07 10:31:15,http://youtube.com/watch?v=m0ouOkNeBS4,11,1.0
+229,1191826,Show HN: Weekend Project - Japanese Wordsearch Builder,show_hn,trydionel,2010-03-15 02:07:55,http://japanese.trydionel.com,17,13.0
+230,1193221,Show HN: My Twitter/Disqus mashup that I threw together. (www.choip.me),show_hn,jrussbowman,2010-03-15 15:57:29,http://www.choip.me/,5,0.0
+231,1196055,Show HN: I finally released that sheet music app I keep yammering about,show_hn,dangrover,2010-03-16 16:30:18,http://etudeapp.com,318,111.0
+232,1197146,"Show HN: Review my startup: Quora, a topic based question and answer site",show_hn,ccheever,2010-03-16 23:35:22,,55,43.0
+233,1197337,Show HN - My stupidly simple RSS reader,show_hn,blhack,2010-03-17 01:00:22,http://newsyndicated.com/,1,3.0
+234,1198099,Show HN:  My weekend project - minimotivation.com,show_hn,tim_church,2010-03-17 08:15:33,http://minimotivation.com,78,59.0
+235,1199990,Show HN: The result of donating 8 hours design time,show_hn,Cheeese,2010-03-17 23:40:15,,11,6.0
+236,1203854,Show HN: My Thursday-afternoon project: Notey,show_hn,elliottkember,2010-03-19 11:03:50,http://notey.heroku.com/,18,31.0
+237,1203936,Show HN: What I did with Notifo,show_hn,geoffc,2010-03-19 12:10:36,,1,0.0
+238,1204742,"Show HN: omgmetoo, our startup project - a free/busy mobile friend tracker",show_hn,andr,2010-03-19 17:50:56,http://omgmetoo.com,11,5.0
+239,1205993,Show HN: Helvetireader: A New Flavor,show_hn,ankit_,2010-03-20 04:43:04,https://chrome.google.com/extensions/detail/dkcjfdlgfmefnbhkholnhliliohggmef,1,0.0
+240,1206923,Show HN: My first website: A story sharing website for cubicle workers,show_hn,yotery,2010-03-20 20:15:21,,4,8.0
+241,1207998,Show HN: create-a-password.appspot.com,show_hn,kaffeinecoma,2010-03-21 14:35:40,,1,2.0
+242,1210928,Show HN: My new app - Penolo: Sketch & Share on Twitter ,show_hn,spxdcz,2010-03-22 18:06:15,http://penolo.com/,2,0.0
+243,1211256,"Show HN: A tech talk I just held (websockets, canvas, node.js and redis)",show_hn,evilhackerdude,2010-03-22 20:11:52,http://www.slideshare.net/evilhackerdude/building-great-stuff-using-web-technologies,1,0.0
+244,1211792,Show HN: Please review my new side project [www.Schmeebs.com],show_hn,BenSchaechter,2010-03-23 00:15:10,,8,8.0
+245,1214323,Show HN: my echo nest + lastfm + spotify hottt artists site,show_hn,reiddraper,2010-03-23 23:01:51,http://hotttnesss.com,8,6.0
+246,1215357,Show HN : I created a PHP Hacker News Clone in 2 hours,show_hn,jarsj,2010-03-24 09:58:11,,18,8.0
+247,1216772,Show HN: Kraftwerk - Python WSGI deployment tool,show_hn,jokull,2010-03-24 20:21:35,http://www.kraftwerk-wsgi.com/,2,0.0
+248,1230508,Show HN: My Hacker News widget for Chumby,show_hn,pufuwozu,2010-03-30 23:42:50,http://www.chumby.com/guide/widget/Hacker%20News,1,0.0
+249,1234167,"Show HN: autolib, the last Python library you'll ever need",show_hn,bdr,2010-04-01 08:34:44,http://github.com/reverie/autolib,13,7.0
+250,1235065,"Show HN: Review my startup: 99Audit, a data analysis service via email",show_hn,wadner,2010-04-01 17:21:33,,1,0.0
+251,1239175,"Show HN: Weekend project, ""I love you, but""",show_hn,paulsingh,2010-04-03 21:44:27,,1,1.0
+252,1244477,Show HN: I just hacked together an app to map broadband speeds.,show_hn,elliottkember,2010-04-06 13:06:26,http://speedmap.heroku.com/,23,17.0
+253,1244836,Show HN: my little pre exams project,show_hn,tewks,2010-04-06 15:42:54,http://stickynotesapp.com,1,0.0
+254,1248110,Show HN: A webapp for sharing cocktail napkin drawings,show_hn,oops,2010-04-07 18:57:56,,4,3.0
+255,1254925,Show HN: Hacker Trends,show_hn,cmelbye,2010-04-10 12:30:44,,3,4.0
+256,1255998,Show HN: I just made 4sqvision at SuperHappyDevHouse,show_hn,jazzychad,2010-04-11 00:07:33,http://4sqvision.jazzychad.com/,29,10.0
+257,1256765,Show HN: See what's trending among only those you follow,show_hn,jcapote,2010-04-11 12:41:23,http://mytrends.heroku.com,2,0.0
+258,1258808,"Show HN: TeamPostgreSQL, neat admin interface for PostgreSQL",show_hn,johnyzee,2010-04-12 10:04:56,,10,6.0
+259,1260317,Show HN: See what is trending amongst friends,show_hn,jcapote,2010-04-12 20:46:33,http://trendingfor.me,3,2.0
+260,1283201,Show HN: Super Hacker News adds one page browsing & keyboard navigation to HN,show_hn,tumblen,2010-04-21 20:34:36,,10,3.0
+261,1286084,Show HN: Like-o-matic,show_hn,kylebragger,2010-04-22 18:54:57,http://likeomatic.heroku.com/,23,9.0
+262,1291247,Show HN: I wrote a natural language parser for coffee drinks,show_hn,kylebragger,2010-04-24 17:47:15,http://kylebragger.com/coffeeparser.php,1,0.0
+263,1291806,Show HN: CanvasMol molecule viewer (JS + canvas demo),show_hn,bd,2010-04-24 23:57:06,http://alteredqualia.com/canvasmol/,72,11.0
+264,1313402,"Show HN: Bolt, my (somewhat dynamic) static website generator",show_hn,benofsky,2010-05-02 22:50:35,http://benofsky.github.com/Bolt/,1,5.0
+265,1313636,Show HN: Simple generator for Rails admin panels,show_hn,adelevie,2010-05-03 00:54:41,http://www.alandelevie.com/2010/05/03/easier-admin-panel-for-rails/,1,0.0
+266,1314415,Show HN: Hacker News like site for South Africa: ZA-Coders,show_hn,jrgnsd,2010-05-03 09:49:10,http://zacoders.net/,12,11.0
+267,1314940,"Show HN: streamgraph.js, now on github",show_hn,jsundram,2010-05-03 15:27:34,http://runningwithdata.tumblr.com/post/566345323/streamgraph-js,7,0.0
+268,1315417,"Show HN: HN Recap - Daily, ranked list of articles that hit the front page",show_hn,nbrochu,2010-05-03 17:45:31,,10,3.0
+269,1316632,"Show HN: Switcheroo, my Emacs-ido-mode-inspired alt-tab replacement for Windows",show_hn,jsulak,2010-05-04 00:53:57,http://bitbucket.org/jasulak/switcheroo/wiki/Home,6,1.0
+270,1327346,Show HN: parking ticket reminder webapp I built,show_hn,djb_hackernews,2010-05-07 12:27:45,,4,5.0
+271,1327737,Show HN: My weekend project - CuteAdoptablePets.com,show_hn,bwh2,2010-05-07 14:55:28,,6,4.0
+272,1328267,Show HN: My notes from the Web 2.0 Expo,show_hn,JimEngland,2010-05-07 18:05:05,,8,3.0
+273,1331136,"Show HN: what do you think of our new web app, PrioritizeMyWork.com?",show_hn,markchristian,2010-05-08 23:15:12,,5,3.0
+274,1344683,Show HN: Talking to your customers made easy.,show_hn,edo,2010-05-13 16:23:15,http://gaingeek.com,24,19.0
+275,1345897,Show HN: iPad port of my sheet music app Etude,show_hn,dangrover,2010-05-13 22:18:51,http://etudeapp.com/ipad/,94,35.0
+276,1346010,Show HN: maskedmail: craigslist style email anonymizer web service,show_hn,bobbywilson0,2010-05-13 23:10:44,http://www.maskedmail.net/,16,14.0
+277,1347180,Show HN: My version of facebook search,show_hn,djb_hackernews,2010-05-14 12:38:23,,2,1.0
+278,1359655,Show HN: CubeOut - remake of classic game Blockout in HTML 5,show_hn,bd,2010-05-19 00:40:36,http://alteredqualia.com/cubeout/,2,0.0
+279,1367501,Show HN: didtheywinornot.com Single Purpose Scores Site,show_hn,apgwoz,2010-05-21 14:58:04,,33,49.0
+280,1369635,"Show HN: TomBoy, an OSS AAC iPhone App for Autistic Kids",show_hn,koudelka,2010-05-22 02:39:28,,6,2.0
+281,1374956,"Show HN: Funny Tweet Ranking Site, laughlitm.us ",show_hn,imack,2010-05-24 16:14:29,,4,2.0
+282,1375868,Show HN: Lists are the next big social content,show_hn,shyamster,2010-05-24 22:42:35,,4,2.0
+283,1381172,Show HN: I made this search engine for Reddit using Bing+Reddit API.,show_hn,ptm,2010-05-26 18:40:27,http://www.ftfysearch.com/,16,12.0
+284,1384186,Show HN: Create better Habits using StepSet.com,show_hn,akaalias,2010-05-27 16:43:19,,3,0.0
+285,1398693,Show HN: Songbird's first music visualizer,show_hn,jsundram,2010-06-02 17:37:59,http://runningwithdata.tumblr.com/post/655428696/songbirdvis,7,1.0
+286,1420735,"Show HN: Browse, submit and rate interesting Wikipedia articles",show_hn,paraschopra,2010-06-10 17:04:45,,10,2.0
+287,1421630,Show HN: the technology and the game I am working on for months,show_hn,liuliu,2010-06-10 20:53:39,,5,1.0
+288,1428737,Show HN: QR Bookmarklet,show_hn,adatta02,2010-06-14 03:10:06,http://code.setfive.com/qrbklt/,1,0.0
+289,1432757,Show HN: I released an update to my Mac App.,show_hn,nrj,2010-06-15 14:02:51,http://goto11.net/one-click-amazon-s3-uploads-with-oneway-0-5-4/,2,0.0
+290,1434199,Show HN: our (bootstrapped) Real Time Analytics + Social Media Monitor Startup,show_hn,mistiaen,2010-06-15 23:37:31,,8,3.0
+291,1445737,Show HN: Twitter Photo Mosaic Creator,show_hn,theli0nheart,2010-06-20 02:25:28,http://twitter-mosaic.appspot.com/,2,1.0
+292,1447160,"Show HN: FlyByChat, the site I'm working on. Looking for feedback.",show_hn,bdr,2010-06-20 21:01:27,http://beta.flybychat.com/,13,22.0
+293,1471223,"Show HN: Mocksup, my mockup prototyping & review webapp",show_hn,adamhowell,2010-06-29 13:06:15,http://mocksup.com,95,63.0
+294,1472493,"Show HN: mail2brain, email attachment timesaver",show_hn,jamesbowman,2010-06-29 19:38:33,http://mail2brain.com/,44,20.0
+295,1482469,Show HN: Created a Job Board for Remote Programming Jobs,show_hn,AmberShah,2010-07-02 21:44:31,,23,13.0
+296,1490066,Show HN: Turn scripts from userscripts.org into Safari Extensions,show_hn,Derferman,2010-07-06 05:34:22,http://github.com/derferman/safari-monkey,12,3.0
+297,1503529,Show HN: TextMate CSS3 Bundle,show_hn,nickcharlton,2010-07-10 12:02:01,http://github.com/nickcharlton/CSS3-Bundle,2,0.0
+298,1520916,"Show HN: HackerNewsers,com, find other hackers near you",show_hn,phpnode,2010-07-16 12:36:01,,221,111.0
+299,1528099,Show HN: My Greg's Pulse. Get text message updates when stuff online changes,show_hn,grigory,2010-07-19 09:44:17,http://gregspulse.com,4,12.0
+300,126809,Poll: What would happen if News.YC had explicit support for polls?,poll,pg,2008-03-01 20:34:12,,46,54.0
+301,126833,Poll: When do you upvote an article?,poll,iamwil,2008-03-01 21:12:38,,8,13.0
+302,126903,Poll: I come to YC.news to ...,poll,robg,2008-03-01 22:58:07,,3,4.0
+303,126923,Poll: My age is...,poll,robg,2008-03-01 23:12:29,,25,35.0
+304,126938,Poll: My gender is...,poll,robg,2008-03-01 23:16:52,,13,7.0
+305,126949,Poll: These polls are...,poll,robg,2008-03-01 23:23:00,,1,1.0
+306,127203,Poll: What languages are you using to build your startup?,poll,jsjenkins168,2008-03-02 06:35:07,,24,34.0
+307,127304,Poll: Do you lurk or do you post?,poll,aston,2008-03-02 11:49:30,,7,12.0
+308,127343,Poll: Where do you assemble your on-the-fly HTML?,poll,edw519,2008-03-02 14:23:49,,6,10.0
+309,127470,Poll: Do we need a downvote button or is that insane ?,poll,mk,2008-03-02 18:41:16,,8,22.0
+310,128258,Poll: What do you look for in a job?,poll,nextmoveone,2008-03-03 19:54:20,,1,1.0
+311,128267,Poll: If it wasn't YC who would it be?,poll,nextmoveone,2008-03-03 20:02:03,,5,7.0
+312,129154,Poll: Is this trolling?,poll,curi,2008-03-04 21:38:13,,4,33.0
+313,129224,Poll: Where in the world are you?,poll,german,2008-03-04 22:49:04,,9,28.0
+314,129291,Poll: Is it OK to submit stories from your own blog?,poll,mixmax,2008-03-04 23:42:52,,18,15.0
+315,129363,Poll: Would you be interested in doing a startup with someone from YC news?,poll,mixmax,2008-03-05 01:31:19,,4,10.0
+316,129807,Poll: How smart are you?,poll,curi,2008-03-05 18:05:09,,6,49.0
+317,129951,Poll: Creating Polls Should Cost Karma,poll,curi,2008-03-05 20:19:49,,17,31.0
+318,130096,Poll: Changing Your Upmod/Downmod,poll,curi,2008-03-05 23:14:59,,1,3.0
+319,131601,Poll: Should people asking for advice from News.YC be obliged to share some relevant details?,poll,joshwa,2008-03-07 23:20:17,,3,5.0
+320,132231,Poll: What's your favourite Browser,poll,german,2008-03-09 00:15:33,,9,26.0
+321,133419,Poll: When is a startup successful?,poll,mixmax,2008-03-10 21:03:49,,1,7.0
+322,157090,Poll: Is your webapp running on an OS that is virtualized or bare metal?,poll,thorax,2008-04-07 18:44:17,,1,1.0
+323,158919,"Ask YC (poll): Trackball, trackpad or mouse?",poll,edu,2008-04-09 16:04:06,,2,3.0
+324,160704,Poll: Ban Valleywag?,poll,pg,2008-04-11 04:02:56,,73,102.0
+325,162723,Poll: How long will it take Apple to force Psystar to stop selling the $399 OpenMac?,poll,pius,2008-04-14 00:54:53,,1,0.0
+326,163618,Poll: After Startup School - [SF] Hacker Launch Party or [PA] StartupHappyDevHouse,poll,gibsonf1,2008-04-14 23:58:52,,10,12.0
+327,163696,Poll: Unknown or expired link on YC,poll,bayareaguy,2008-04-15 01:45:17,,51,35.0
+328,165279,"Poll: Should this site be visible to Yahoo, MSN crawlers?",poll,pg,2008-04-16 16:26:34,,40,94.0
+329,165360,Poll: Should we have a moderated announcement list for the LinkedIn Group?,poll,wheels,2008-04-16 17:40:56,,6,3.0
+330,165802,Poll: Are you going to startup school?,poll,rms,2008-04-17 00:09:35,,6,2.0
+331,167437,Poll: Preferred medium for reading?,poll,kashif,2008-04-18 17:36:19,,5,19.0
+332,168338,Poll: Best speaker at Startup School 2008?,poll,raghus,2008-04-20 05:50:44,,17,13.0
+333,170690,Poll: How little would you sell your startup for right now?,poll,epi0Bauqu,2008-04-22 16:19:45,,9,11.0
+334,172218,Poll: Are Slide and RockYou overvalued?,poll,rms,2008-04-24 04:19:48,,6,13.0
+335,175378,Poll: Should PDFs and other documents be auto-Scribd'd?,poll,rms,2008-04-28 05:42:14,,23,20.0
+336,177975,Poll: Should Xobni have taken Microsoft's offer?,poll,aneesh,2008-05-01 01:52:25,,1,0.0
+337,180529,Poll: What should Yahoo have done?,poll,wumi,2008-05-04 00:46:03,,3,0.0
+338,189433,Poll: Do you use a web Adblocker?,poll,rms,2008-05-14 10:17:44,,2,0.0
+339,195036,Poll: I use twitter for...,poll,kashif,2008-05-20 16:44:40,,1,0.0
+340,195753,Poll: Coworking in the South Bay Area,poll,chengmi,2008-05-21 06:05:50,,3,5.0
+341,196244,Poll: Social messaging - which one...,poll,kashif,2008-05-21 17:13:46,,3,5.0
+342,198272,Poll: Are you a builder or entrepreneur?,poll,ntoshev,2008-05-23 18:44:35,,17,18.0
+343,204240,Poll: Hacker News (Myers-Briggs) Personality Types,poll,epi0Bauqu,2008-05-30 12:04:01,,116,133.0
+344,211630,"Poll: Suggestions please, which JavaScript library? ",poll,kashif,2008-06-07 18:48:23,,39,61.0
+345,223846,Poll: What are you doing full-time?,poll,sah,2008-06-21 20:48:41,,65,52.0
+346,230183,Poll HN: Who do you support in the 2008 Elections?,poll,markbao,2008-06-27 21:12:55,,3,25.0
+347,232394,Poll HN: Physical Keyboard or On-Screen Keyboard?,poll,markbao,2008-06-30 20:16:58,,3,9.0
+348,235585,Poll: What continent are you in?,poll,icey,2008-07-03 20:08:07,,4,5.0
+349,235947,Poll: Would you have dodged the Vietnam draft?,poll,falsestprophet,2008-07-04 04:56:11,,8,22.0
+350,237517,Poll: My religious beliefs are best summarized by...,poll,robg,2008-07-06 02:39:58,,11,14.0
+351,253318,Poll: Have you learned a software technique from a patent database?,poll,brlewis,2008-07-22 15:18:04,,5,6.0
+352,258623,Poll: to js or not to js?,poll,xenoterracide,2008-07-28 02:22:01,,1,4.0
+353,259524,Poll: Time to introduce multiple sections/channels to HN?,poll,prakash,2008-07-28 19:49:21,,6,4.0
+354,265151,Poll: Categories for YC News?,poll,alexk,2008-08-02 19:39:11,,1,7.0
+355,269757,Poll: More Secure? Hosted Vs. Self-Hosting Web Applications,poll,gscott,2008-08-07 16:48:57,,1,2.0
+356,274827,Poll: Would you install Java on a Linux PC for Noobs?,poll,Tichy,2008-08-13 09:25:25,,1,2.0
+357,277904,Poll: should submitting new articles require non-trivial karma ?,poll,huhtenberg,2008-08-16 19:30:31,,3,9.0
+358,278689,Poll: Would you like to see this site become CS/Startup related only?,poll,mattmaroon,2008-08-17 23:15:04,,40,80.0
+359,283127,Poll: How late do you stay up?,poll,Raphael,2008-08-21 20:36:02,,39,68.0
+360,283230,Poll: What's your current sticking point?,poll,Alex3917,2008-08-21 22:29:29,,5,0.0
+361,286046,Poll: Which programming language do you plan on learning next?,poll,prakash,2008-08-25 16:14:49,,27,110.0
+362,288829,Please Help Me Decide What to Build,poll,auston,2008-08-28 04:06:53,,8,5.0
+363,293460,Poll: Have you downloaded Google Chrome?,poll,dkokelley,2008-09-03 02:29:30,,5,10.0
+364,293581,Poll: Will Chrome take more marketshare from FF or IE?,poll,kajecounterhack,2008-09-03 05:33:07,,1,1.0
+365,293642,Poll: IQ?,poll,tlrobinson,2008-09-03 08:32:33,,1,2.0
+366,295735,Poll: What program do you use to vote in this poll?,poll,d0mine,2008-09-05 10:01:10,,2,5.0
+367,323041,Poll: Which version control system should we use?,poll,robg,2008-10-03 20:33:41,,3,11.0
+368,326683,Poll: Version Control,poll,wtrk,2008-10-08 16:29:07,,43,90.0
+369,328901,Poll: How many hours of sleep do you get each day?,poll,eru,2008-10-10 15:25:53,,19,36.0
+370,330582,Poll: How many hours do you work a week?,poll,jamiequint,2008-10-13 00:03:59,,19,32.0
+371,340866,Poll: Could open source produce an iPod killer?,poll,wensing,2008-10-23 03:30:37,,3,6.0
+372,342635,Poll: Which Generation Are You?,poll,LogicHoleFlaw,2008-10-24 17:47:50,,27,71.0
+373,342979,Poll: What is your professional status?,poll,ashishk,2008-10-24 21:21:56,,12,30.0
+374,343135,HN meetup in Seattle next week,poll,mwerty,2008-10-25 00:05:11,,19,35.0
+375,343210,Poll: Release Web Application Framework Or Not?,poll,volida,2008-10-25 01:26:54,,1,7.0
+376,348910,Poll: The Decline of Search (am I imagining things?),poll,ram1024,2008-10-30 17:58:16,,3,7.0
+377,349421,Poll: Allow stories about the election?,poll,pg,2008-10-31 00:05:26,,23,37.0
+378,370919,"Poll: ""Top 10 Youtube videos of all-time"" - really, is it? or doctored?",poll,satyajit,2008-11-20 19:44:49,,1,2.0
+379,372593,Poll: Turn off News.YC a few hours a day?,poll,pg,2008-11-22 02:35:00,,83,127.0
+380,373789,Poll: How do you feel about making HN invite only?,poll,vaksel,2008-11-23 16:41:38,,42,80.0
+381,375237,Poll: Major Cause of Your Successful Growth?,poll,epi0Bauqu,2008-11-24 19:35:45,,40,22.0
+382,379594,"Poll: CS, music, or math - which major produces better programmers?",poll,yters,2008-11-28 22:09:26,,1,4.0
+383,390007,Poll: Who would you like to raise money from for your Startup?,poll,prakash,2008-12-08 16:48:58,,1,2.0
+384,390280,"Poll: Honestly, how ""creative"" are you on your taxes?",poll,lionhearted,2008-12-08 19:55:34,,2,3.0
+385,394661,Poll: Does your startup try to write secure software?,poll,Haskell,2008-12-11 19:30:17,,5,16.0
+386,397428,Poll: Do you put cases on your gadgets?,poll,shutter,2008-12-14 16:55:12,,2,6.0
+387,397608,Poll: Will Python ever lose the GIL?,poll,lacker,2008-12-14 20:23:31,,2,3.0
+388,408585,Poll: When do you think the economy will improve?,poll,sutro,2008-12-24 07:08:47,,1,2.0
+389,414758,Poll: Startup grammar question,poll,cperciva,2008-12-30 22:29:26,,10,33.0
+390,430336,Poll: How does consistency of result affect your usage?,poll,markessien,2009-01-12 09:44:19,,1,2.0
+391,441087,Poll: Do you OpenID?,poll,pclark,2009-01-19 23:56:27,,2,7.0
+392,441680,Poll: Do you know about the poll feature?,poll,jgrahamc,2009-01-20 13:14:42,,8,13.0
+393,441979,Poll: Best way to build a web hosted chat system?,poll,sfphotoarts,2009-01-20 17:58:02,,1,2.0
+394,455335,"Poll: Startups, why do them?",poll,yters,2009-01-28 22:42:23,,15,62.0
+395,455961,Poll: Rails Deployment: Passenger or Mongrel or?,poll,lyime,2009-01-29 06:56:26,,8,6.0
+396,457313,Poll: Hacker News to send emails on discussion thread,poll,satyajit,2009-01-29 22:59:54,,3,3.0
+397,462919,Poll: Best Revenue Model Focus For Our Startup,poll,jasonlbaptiste,2009-02-02 21:31:22,,4,5.0
+398,463188,Poll: Allow override of noprocrast?,poll,pg,2009-02-03 00:04:56,,22,15.0
+399,465580,Poll: What proportion of start-ups/non-start-ups use automated unit tests/TDD?,poll,swombat,2009-02-04 11:09:36,,21,40.0
