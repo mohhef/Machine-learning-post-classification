@@ -36,5 +36,22 @@ def frequency_filtering():
         classifier.predict_classifier(frequency_filter=True, input_filename= model_file[i],top_freq=True)
 
     classifier.draw_graph()
+
+
+prompt = input("-Enter 0 to run all the experiments \n-Enter 1 to run the baseline experiment \n-Enter 2 to run the remove word experiment \n-Enter 3 to run the word length filter experiment \n-Enter 4 to run the infrequent filtering experiment \n")
+prompt= int(prompt)
+if prompt==0:
+    baseline()
+    remove_stopword()
+    filter_wordlength()
+    frequency_filtering()
+elif prompt==1:
+    baseline()
+elif prompt==2:
+    remove_stopword()
+elif prompt==3:
+    filter_wordlength()
+elif prompt==4:
+    frequency_filtering()
 print('Thank you for using the program!')
 #frequency_filtering()

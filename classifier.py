@@ -5,7 +5,6 @@
 # --------------------------------------------------------
 import pandas
 import nltk_functions
-import os
 import json
 import math
 import vocab
@@ -50,8 +49,8 @@ def draw_graph():
 
     #set the plot titles and legends
     plt.setp(axs[0], ylabel='F-measure')
-    axs[0].set_title('Frequency number')
-    axs[1].set_title('Frequency percentage')
+    axs[0].set_title('Removal of low frequency\n By number')
+    axs[1].set_title('Removal of high frequency\n By percentage')
     fig.text(0.5, 0.04, 'Words left in vocab', ha='center', va='center')
     axs[0].legend()
     axs[1].legend()
@@ -150,13 +149,15 @@ def classify(csv, input, output,stop_words,frequency_filter=False,word_length_fi
         p_show = float("-inf") if post_show == 0 else math.log(post_show /total_post, 10)
         p_poll =  float("-inf") if post_poll == 0 else math.log(post_show /total_post, 10)
         #print(title)
-        #check if the title consists of certain words, assign a higher probabilty for these words
-        if ("ask hn" in title_plain  and post_type=="ask_hn")  or ('ask_hn' in title_plain and post_type == 'ask_hn'):
-            p_ask = 100
-        if ("show hn" in title_plain and post_type=="show_hn")  or ('show_hn' in title_plain and post_type == 'show_hn'):
-            p_show = 100
-        if ("poll" in title and post_type=="poll"):
-            p_poll = 100
+
+        #check if the title consists of certain words, assign a higher probabilty for these words, its like a heurstic
+        if const.HEURSTIC:
+            if ("ask hn" in title_plain  and post_type=="ask_hn")  or ('ask_hn' in title_plain and post_type == 'ask_hn'):
+                p_ask = 10
+            if ("show hn" in title_plain and post_type=="show_hn")  or ('show_hn' in title_plain and post_type == 'show_hn'):
+                p_show = 10
+            if ("poll" in title and post_type=="poll"):
+                p_poll = 10
 
         #calculate the total post type score for each word in the title
         for word in title:
