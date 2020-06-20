@@ -4,14 +4,13 @@
 # For COMP 472 Section (ABIX) – Summer 2020
 # --------------------------------------------------------
 import pandas
+import matplotlib.pyplot as plt
+from sklearn import metrics
 import nltk_functions
 import json
 import math
 import vocab
 import const
-import matplotlib.pyplot as plt
-from sklearn import metrics
-
 import time
 
 INPUT_COLUMNS = ["counter", "word", "freq_story", "prob_story", "freq_ask", "prob_ask", "freq_show", "prob_show", "freq_poll", "prob_poll"]
@@ -35,13 +34,13 @@ def draw_graph():
     """
     #create 2 subplots
     fig, axs = plt.subplots(1, 2)
-    #scatter points for the first graph
+    #plot points for the first graph
     axs[0].plot(xticks,yticks_fmeasure, label = "F-measure",marker='x')
     axs[0].plot(xticks,yticks_accuracy, label= "accuracy",marker='D')
     axs[0].plot(xticks,yticks_precision,label= "precision",marker='*')
     axs[0].plot(xticks,yticks_recall, label= "recall",marker='P')
 
-    #scatter points for the second graphs
+    #plot points for the second graphs
     axs[1].plot(xticks_top,yticks_top_fmeasure, label = "F-measure",marker='x')
     axs[1].plot(xticks_top,yticks_top_accuracy,label = "accuracy",marker='D')
     axs[1].plot(xticks_top,yticks_top_precision, label = "precision",marker='*')
@@ -93,10 +92,12 @@ def classify(csv, input, output,stop_words,frequency_filter=False,word_length_fi
     #load the model data to classify based on
     model_data = load(input)
 
-    # if proccessed lemmatized testing titles doesnt exist, lemmatize titles and save a h5 file
-    ##if not exists:
-    print('processing, classification files')        
+    print('processing, classification files')
+
+    #load the test data        
     test_set = load_test(csv)
+
+    #lemmatize all the test data titles
     test_set['Titlelemma'] = test_set.apply(lambda row: nltk_functions.corpus_lemmatization(corpus_string=row['Title'],stopwords=stop_words,
     
                                                                                           word_length_filtering=word_length_filter,baseline=baseline),axis=1)
@@ -176,6 +177,8 @@ def classify(csv, input, output,stop_words,frequency_filter=False,word_length_fi
         prediction = types[max_index]
 
         if not frequency_filter:
+
+            #check if the prediction matches the actual type
             result = "right" if prediction == post_type else "wrong"
             line ="%d  %s  %s  %f  %f  %f  %f  %s  %s\n" % (count, title_plain, prediction,
                                                             p_story, p_ask, p_show, p_poll,
@@ -184,6 +187,7 @@ def classify(csv, input, output,stop_words,frequency_filter=False,word_length_fi
         prediction_list.append(prediction)
 
     if frequency_filter:
+        
         #get performance metrics for the  frequency filter classification
         fScore, accuracy, recall, precision = get_metrics(true_list,prediction_list)
 
@@ -194,6 +198,7 @@ def classify(csv, input, output,stop_words,frequency_filter=False,word_length_fi
             yticks_top_accuracy.append(accuracy)
             yticks_top_precision.append(precision)
             yticks_top_recall.append(recall)
+
         #if generating the numerical frequency graph
         else:
             xticks.append(voc_size)

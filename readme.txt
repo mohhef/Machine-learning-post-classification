@@ -10,7 +10,9 @@ math
 re
 
 Steps to run the program:
--- To change the csv file name, change the first two variables from const.py
+-- To change the csv file name, change the first two variables in const.py
+-- To disable a predictor that increases performance, change 'HEURSTIC' to 'False'
+in const.py
 
 1. install all the libraries above
 2. navigate to the assignment folder where main.py exists
@@ -22,3 +24,4 @@ Steps to run the program:
 8. To run the stopword experiment, enter 2
 9. To run the word length filter experiment, enter 3
 10. To run the infrequency filter experiment, enter 4
+11. Output text files exist in 'txtOutput'
