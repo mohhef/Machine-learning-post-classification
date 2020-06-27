@@ -1,3 +1,5 @@
+This is a python script that classifys a testing set to a post type (ask_hn, show_hn, story, poll). It has over 80% accuracy for a test set of 5000 post types.
+
 libraries used:
 
 pandas
