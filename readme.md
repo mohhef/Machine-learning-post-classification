@@ -1,15 +1,6 @@
+# Post type classification
+
 This is a python script that classifys a testing set to a post type (ask_hn, show_hn, story, poll). It has over 80% accuracy for a test set of 5000 post types.
-
-libraries used:
-
-pandas
-matplotlib
-sklearn
-nltk
-json
-string
-math
-re
 
 Steps to run the program:
 -- To change the csv file name, change the first two variables in const.py
@@ -27,3 +18,14 @@ in const.py
 9. To run the word length filter experiment, enter 3
 10. To run the infrequency filter experiment, enter 4
 11. Output text files exist in 'txtOutput'
+
+libraries used:
+
+pandas
+matplotlib
+sklearn
+nltk
+json
+string
+math
+re
