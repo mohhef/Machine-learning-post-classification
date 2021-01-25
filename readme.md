@@ -47,11 +47,11 @@ in const.py
 - Output text files exist in 'txtOutput'
 
 **libraries used:**
-pandas
-matplotlib
-sklearn
-nltk
-json
-string
-math
-re
+pandas  
+matplotlib  
+sklearn  
+nltk  
+json  
+string  
+math  
+re  
