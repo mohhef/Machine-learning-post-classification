@@ -46,12 +46,12 @@ in const.py
 - To run the infrequency filter experiment, enter 4
 - Output text files exist in 'txtOutput'
 
-**libraries used:**
-pandas  
-matplotlib  
-sklearn  
-nltk  
-json  
-string  
-math  
-re  
+**libraries used:**  
+- pandas  
+- matplotlib  
+- sklearn  
+- nltk  
+- json  
+- string  
+- math  
+- re  
