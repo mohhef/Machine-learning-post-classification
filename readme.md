@@ -1,6 +1,6 @@
 # Post type classification
 
-This is a python script that classifys a dataset to a  following post type post(ask_hn, show_hn, story, poll). It has over 80% accuracy for a test set of 5000 post types.
+This is a python script that classifys a dataset to a following post type post(ask_hn, show_hn, story, poll). It has over 80% accuracy for a test set of 5000 post types.
 The classification has been tested on Hacker News dataset fetched form kaggle.
 
 **Information about the dataset:**
@@ -10,13 +10,14 @@ The classification has been tested on Hacker News dataset fetched form kaggle.
 
 **Classifier specifications:**
 - Builds a probabilistic model from the training set using Naïve Bays Classifier
-- Data extrated from "Created At"column of value 2019 is used as a testing dataset.
+- Data extrated from "Created At" column of value 2019 is used as a testing dataset.
+- The training set was extracted from "Created At" column of value 2018
 - Posts are tokenized and the resulting word set is used as vocabulary.
-- Each word in the vocablary set  its frequency and its conditional probability are calculated and a smoothing of value 0.5 is used.
+- Each word in the vocablary set its frequency and conditional probability are calculated and a smoothing of value 0.5 is used.
 
 **Classifier experiments:**
 - Baseline:  
-`Access the data and calculates the score of story, ask-hn, show-hn, poll.`
+`Accesses the data and calculates the score of story, ask-hn, show-hn, poll.`
 `Select the correct post kind based on the scores`
 `Generate a label to indicated if the accessment is correct`
 `Student's Guide poll 0.002 0.03 0.007 0.12 story wrong`
