@@ -34,17 +34,17 @@ The classification has been tested on Hacker News dataset fetched form kaggle.
 -- To disable a predictor that increases performance, change 'HEURSTIC' to 'False'
 in const.py
 
-1. install all the libraries
-2. navigate to the folder where main.py exists
-3. open the command line prompt
-4. Type 'py main.py' in the command line
-5. Instruction are written in the terminal
-6. To run all the experiments, enter 0
-7. To run the baseline experiment, enter 1
-8. To run the stopword experiment, enter 2
-9. To run the word length filter experiment, enter 3
-10. To run the infrequency filter experiment, enter 4
-11. Output text files exist in 'txtOutput'
+- install all the libraries
+- navigate to the folder where main.py exists
+- open the command line prompt
+- Type 'py main.py' in the command line
+- Instruction are written in the terminal
+- To run all the experiments, enter 0
+- To run the baseline experiment, enter 1
+- To run the stopword experiment, enter 2
+- To run the word length filter experiment, enter 3
+- To run the infrequency filter experiment, enter 4
+- Output text files exist in 'txtOutput'
 
 **libraries used:**
 pandas
