@@ -3,31 +3,28 @@
 This is a python script that classifys a dataset to a  following post type post(ask_hn, show_hn, story, poll). It has over 80% accuracy for a test set of 5000 post types.
 The classification has been tested on Hacker News dataset fetched form kaggle.
 
-**Information about the dataset:
-**
+**Information about the dataset:**
 - Hacker News posts from 2018 to 2019 
 - Each post includes the following columns:
  Object ID | Title | Post Type | Author | Created At | URL | Points | Number of  Comments | year
 
-**Classifier specifications:  
-**
+**Classifier specifications: **
 - Builds a probabilistic model from the training set
 - Data extrated from "Created At"column of value 2019 is used as a testing dataset.
 - Posts are tokenized and the resulting word set is used as vocabulary.
 - Each word in the vocablary set  its frequency and its conditional probability are calculated and a smoothing of value 0.5 is used.
 
-**Classifier experiments:
-**
-- Baseline:
+**Classifier experiments:**
+- Baseline:  
 `Access the data and calculates the score of story, ask-hn, show-hn, poll.`
 `Select the correct post kind based on the scores`
 `Generate a label to indicated if the accessment is correct`
 `Student's Guide poll 0.002 0.03 0.007 0.12 story wrong`
-- Stop-word Filtering:
+- Stop-word Filtering:  
 `Remove specific  words from the vocabulary which are accessible in stopwords.txt`
-- Word Length Filtering:
+- Word Length Filtering:  
 `remove all words with length ≤2 and all words with length ≥ 9`
-- Infrequent Word Filtering
+- Infrequent Word Filtering:  
 `Use the baseline experiment, and gradually remove from the vocabulary words with frequency= 1, frequency ≤ 5, frequency ≤ 10, frequency ≤ 15 and frequency ≤ 20. Then gradually remove the top 5% most frequent words, the 10% most frequent words, 15%, 20% and 25% most frequent words. Plot both performance of the classifiers against the number of words left in your vocabulary`
 
 **Steps to run the program:
@@ -49,8 +46,7 @@ in const.py
 10. To run the infrequency filter experiment, enter 4
 11. Output text files exist in 'txtOutput'
 
-**libraries used:
-**
+**libraries used:**
 pandas
 matplotlib
 sklearn
