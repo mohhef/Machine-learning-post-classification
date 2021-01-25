@@ -8,7 +8,7 @@ The classification has been tested on Hacker News dataset fetched form kaggle.
 - Each post includes the following columns:
  Object ID | Title | Post Type | Author | Created At | URL | Points | Number of  Comments | year
 
-**Classifier specifications: **
+**Classifier specifications:**
 - Builds a probabilistic model from the training set
 - Data extrated from "Created At"column of value 2019 is used as a testing dataset.
 - Posts are tokenized and the resulting word set is used as vocabulary.
@@ -27,8 +27,7 @@ The classification has been tested on Hacker News dataset fetched form kaggle.
 - Infrequent Word Filtering:  
 `Use the baseline experiment, and gradually remove from the vocabulary words with frequency= 1, frequency ≤ 5, frequency ≤ 10, frequency ≤ 15 and frequency ≤ 20. Then gradually remove the top 5% most frequent words, the 10% most frequent words, 15%, 20% and 25% most frequent words. Plot both performance of the classifiers against the number of words left in your vocabulary`
 
-**Steps to run the program:
-**
+**Steps to run the program:**
 
 -- To change the csv file name, change the first two variables in const.py
 -- To disable a predictor that increases performance, change 'HEURSTIC' to 'False'
