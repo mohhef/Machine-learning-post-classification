@@ -9,7 +9,7 @@ The classification has been tested on Hacker News dataset fetched form kaggle.
  Object ID | Title | Post Type | Author | Created At | URL | Points | Number of  Comments | year
 
 **Classifier specifications:**
-- Builds a probabilistic model from the training set
+- Builds a probabilistic model from the training set using Naïve Bays Classifier
 - Data extrated from "Created At"column of value 2019 is used as a testing dataset.
 - Posts are tokenized and the resulting word set is used as vocabulary.
 - Each word in the vocablary set  its frequency and its conditional probability are calculated and a smoothing of value 0.5 is used.
