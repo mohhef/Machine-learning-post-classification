@@ -2,6 +2,10 @@
 
 This is a python script that classifys a testing set to a post type (ask_hn, show_hn, story, poll). It has over 80% accuracy for a test set of 5000 post types.
 
+ask_hn: its an ask post
+story: its a story post
+poll: its a poll post
+
 Steps to run the program:
 -- To change the csv file name, change the first two variables in const.py
 -- To disable a predictor that increases performance, change 'HEURSTIC' to 'False'
